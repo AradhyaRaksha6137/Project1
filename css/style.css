@@ -156,8 +156,9 @@ a,
 }
 
 img {
-     max-width: 100%;
+     max-width: 90%;
      height: auto;
+     
 }
 
  :focus {
@@ -238,18 +239,18 @@ button {
 .bg-light {
     background-color: #fefeff !important;
     box-shadow: 0px 0px 10px 0px;
-    border-top: 45px solid #333a44;
+    border-top: 45px solid rgb(56, 3, 75) ;
 }
 .navbar-light .navbar-nav .nav-link {
     color: #24292f;
     font-weight: 500;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
-    color: #4f99e5;
+    color: #946abb;
 }
 
 .navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
-    color: #4f99e5;
+    color: #431073;
 }
 
 .banner_section {
@@ -264,6 +265,7 @@ button {
     width: 100%;
     float: left;
     padding-top: 40px;
+    
 }
 
 .video_text{
@@ -279,7 +281,7 @@ button {
     width: 100%;
     float: left;
     font-size: 70px;
-    color: #599ee9;
+    color: #9663c5;
     font-weight: 600;
     text-transform: uppercase;
     line-height: 50px;
@@ -301,11 +303,11 @@ button {
     text-align: center;
     background-color: #fcfcfd;
     color: #191919;
-    border-left: 10px solid #599ee9;
+    border-left: 10px solid #431073 ;
     border-radius: 30px;
-    border-right: 10px solid #599ee9;
-    border-top: 4px solid #599ee9;
-    border-bottom: 4px solid #599ee9;
+    border-right: 10px solid #431073;
+    border-top: 4px solid #431073;
+    border-bottom: 4px solid #431073;
     padding: 5px 0px;
     margin-top: 40px;
 }
@@ -314,14 +316,14 @@ button {
     color: #191919;
 }
 .shop_bt a:hover{
-    color: #599ee9;
+    color: #946abb;
 }
 
 #my_slider a.carousel-control-prev {
     position: absolute;
     left: 15px;
     top: 115%;
-    background-color: #599ee9;
+    background-color: #431073;
 }
 #my_slider .carousel-control-prev, #my_slider .carousel-control-next {
     width: 65px;
@@ -334,7 +336,7 @@ button {
 }
 
 #my_slider .carousel-control-prev:hover, #my_slider .carousel-control-next:hover, #my_slider .carousel-control-prev:focus, #my_slider .carousel-control-next:focus {
-    background: #599ee9;
+    background: #431073;
     color: #fff;
 }
 #my_slider a.carousel-control-next {
@@ -383,11 +385,11 @@ button {
     text-align: center;
     background-color: #fcfcfd;
     color: #191919;
-    border-left: 10px solid #599ee9;
+    border-left: 10px solid #431073;
     border-radius: 30px;
-    border-right: 10px solid #599ee9;
-    border-top: 4px solid #599ee9;
-    border-bottom: 4px solid #599ee9;
+    border-right: 10px solid #431073;
+    border-top: 4px solid #431073;
+    border-bottom: 4px solid #431073;
     padding: 5px 0px;
     margin-top: 40px;
 }
@@ -396,7 +398,7 @@ button {
     color: #191919;
 }
 .shop_bt_2 a:hover{
-    color: #599ee9;
+    color: #946abb;
 }
 
 .product_section{
@@ -412,7 +414,7 @@ button {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #24292f;
+    color: #191919;
     font-weight: 600;
     text-transform: uppercase;
     text-align: center;
@@ -430,7 +432,7 @@ button {
     width: 100%;
     float: left;
     font-size: 30px;
-    color: #5ca0e9;
+    color: #431073;
     font-weight: 600;
     text-transform: uppercase;
     text-align: center;
@@ -458,11 +460,11 @@ button {
     text-align: center;
     background-color: #fcfcfd;
     color: #191919;
-    border-left: 10px solid #599ee9;
+    border-left: 10px solid #431073;
     border-radius: 30px;
-    border-right: 10px solid #599ee9;
-    border-top: 4px solid #599ee9;
-    border-bottom: 4px solid #599ee9;
+    border-right: 10px solid #431073;
+    border-top: 4px solid #431073;
+    border-bottom: 4px solid #431073;
     padding: 5px 0px;
     margin-top: 40px;
 }
@@ -471,7 +473,7 @@ button {
     color: #191919;
 }
 .see_bt a:hover{
-    color: #599ee9;
+    color: #946abb;
 }
 
 .video_section{
@@ -486,7 +488,7 @@ button {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #599ee9;
+    color: #843cc7;
     font-weight: 600;
     text-transform: uppercase;
 
@@ -566,7 +568,7 @@ button {
 .client_main{
     width: 45%;
     float: left;
-    background-color: #599ee9;
+    background-color: #5d2195;
     height: auto;
 }
 
@@ -661,7 +663,7 @@ button {
 }
 
 .main_bt {
-    background: #ed1c24;
+    background: #431073;
     border: none;
     color: #faf9f9;
     width: 160px;
@@ -724,7 +726,7 @@ button {
     float: left;
     font-size: 16pt;
     color: #eceaea;
-    background-color: #599ee9;
+    background-color: #431073;
     padding: 5px 0px;
     border: 0px;
     text-align: center;
@@ -751,7 +753,7 @@ button {
 }
 
 .useful_link li a:hover{
-    color: #599ee9;
+    color: #946abb;
 }
 
 .footer_section_2 {
@@ -781,7 +783,7 @@ button {
 .copyright_section{
     width: 100%;
     float: left;
-    background-color: #599ee9;
+    background-color: #431073;
     height: auto;
 }
 
